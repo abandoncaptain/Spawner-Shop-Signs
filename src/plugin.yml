@@ -1,0 +1,8 @@
+name: SpawnerSigns
+version: 1.0
+main: me.abandoncaptian.SpawnerSigns.Main
+description: Spawner Signs made by abandoncaptian
+depend: [Vault]
+commands:
+  es:
+    description: Base command for Spawner Signs
